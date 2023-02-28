@@ -1,0 +1,184 @@
+body{
+    
+    justify-content: center;
+    align-items: center;
+    padding-top: 32px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.main1{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.i1{
+    
+    height: 377px;
+    width: 348px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0.8px solid #c7c0c0;
+    margin-bottom: 10px;
+}
+.imginsta{
+    height: 53.6px;
+    width: 174px;
+    margin-top: 36px;
+    margin-bottom: 12px;
+    padding-left: 80px;
+}
+.form1{
+    height: 365.788px;
+    width: 174px;
+    margin-top: 20px;
+}
+form{
+    height: 213.788px;
+    width: 348.400px;
+    margin-top: 24px;
+}
+.username,.password{
+    height: 36px;
+    width: 266.8px;
+    border: 0.8px solid #dbdbdb;
+    border-radius: 1px;
+    
+    color: #737070;
+    font-size: 12px;
+    text-align: left;
+    padding-left: 5px;
+    background-color: #fafafa;
+}
+input[type="text"]{
+    height: 15px;
+    width: 250.8px;
+    border: 0px solid rgb(0, 0, 0);
+}
+.password{
+    
+    width: 266px;
+    margin-top: 4px;
+    
+}
+input[type="password"]{
+    width: 250px;
+    border: 0px solid white
+}
+    
+.button1{
+    height: 32px;
+    width: 272.4px;
+    background-color: #4db5f9;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+button{
+    border: #4db5f9;
+    background-color: #4db5f9;
+    color: #dbdbdb;
+    font-weight: 600;
+    padding: 7px 16px;
+}
+.or{
+    height: 14.988px;
+    width: 268.400px;
+    margin-top: 10px;
+    
+}
+.hr1,.hr2{
+    float: left;
+    width:105px;
+    margin-top: 15px;
+    color: #dbdbdb;
+}
+.or1{
+    margin-top: 5px;
+    float: left;
+    height: 14.988px;
+    width: 17.925px;
+    margin-left: 18px;
+    margin-right: 18px;
+    font-size: 13px;
+    color: #8e8e8e;
+    font-weight: 500;
+}
+.facebook{
+    margin-top: 35px;
+    height: 19.6px;
+    width: 268.4px;
+    color: #385185;
+    font-size: 14px;
+}
+img[src="/image/10.png"]{
+    height: 16px; 
+    margin-left: 8px; 
+}
+.forget{
+    height: 16px;
+    width: 348.4px;
+    font-size: 12px;
+    margin-top: 24px;
+    
+}
+a[href="forget.html"],a{
+    color: #00376b;
+    text-decoration: none;
+}
+.signup{
+    height: 41px;
+    width: 348.4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0.8px solid #c7c0c0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a[href="signup.html"]{
+    padding-left: 2px;
+    color: #4db5f9;
+}
+.app{
+    height: 94.6px;
+    width: 350px;
+}
+.getapp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.app{
+    padding-top: 15px;
+}
+.source{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 43.6px;
+    width: 350px;
+}
+img[src="/image/8.png"],img[src="/image/7.png"]{
+    height: 40px;
+    margin: 4px;
+}
+.language{
+    margin-top: 15px;
+}
+temp{
+    color: white;
+}
+.bottom2,.language2,.language{
+    padding-right: 20px;
+    color: #8e8e8e;
+    font-size: 12px;
+    flex-direction: row;
+}
+.bottom,.language{
+    justify-content: center;
+    align-items: center;
+}
+.language2{
+    border: 1px solid white;
+    width: 100px;
+}
